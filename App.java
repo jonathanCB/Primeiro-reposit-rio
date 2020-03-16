@@ -1,4 +1,4 @@
-//Primeira versão
+//Segunda versão
 public class App{
     public static void main(String args[]){
         Placa p1 = new Placa("Italia","ABC1R23");
